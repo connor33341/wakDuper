@@ -1,5 +1,5 @@
 v1	named	intermediary
-FIELD	me/jndildap/mixin/screen/AbstractSignEditScreenMixin	Lnet/minecraft/block/entity/SignBlockEntity;	blockEntity	field_40424
-FIELD	me/jndildap/mixin/screen/ChatScreenMixin	Lnet/minecraft/client/gui/widget/TextFieldWidget;	chatField	field_2382
 FIELD	me/jndildap/mixin/screen/HandledScreenMixin	I	x	field_2776
 FIELD	me/jndildap/mixin/screen/HandledScreenMixin	I	y	field_2800
+FIELD	me/jndildap/mixin/screen/ChatScreenMixin	Lnet/minecraft/client/gui/widget/TextFieldWidget;	chatField	field_2382
+FIELD	me/jndildap/mixin/screen/AbstractSignEditScreenMixin	Lnet/minecraft/block/entity/SignBlockEntity;	blockEntity	field_40424
